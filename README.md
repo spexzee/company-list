@@ -1,7 +1,5 @@
 # company-list
 
-  replit html { height: 100%; width: 100%; background: black; color: white } a { color: unset } li { line-height: 1.8rem; } a:hover { color: #44ff00 } a:viited { color: #44ff00 } ul li::marker { content: "➡️"; }
-
 A
 -
 
